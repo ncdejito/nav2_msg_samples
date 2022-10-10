@@ -1,0 +1,1 @@
+WARNING: topic [/initialpose] does not appear to be published yet

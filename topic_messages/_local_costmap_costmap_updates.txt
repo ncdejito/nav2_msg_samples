@@ -1,0 +1,1 @@
+WARNING: topic [/local_costmap/costmap_updates] does not appear to be published yet

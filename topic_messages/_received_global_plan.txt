@@ -1,0 +1,1 @@
+WARNING: topic [/received_global_plan] does not appear to be published yet

@@ -1,0 +1,1 @@
+WARNING: topic [/intel_realsense_r200_depth/points] does not appear to be published yet

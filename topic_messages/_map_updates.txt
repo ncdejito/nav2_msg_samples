@@ -1,0 +1,1 @@
+WARNING: topic [/map_updates] does not appear to be published yet

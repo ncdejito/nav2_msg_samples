@@ -1,0 +1,1 @@
+WARNING: topic [/local_costmap/footprint] does not appear to be published yet
